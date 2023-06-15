@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Namitajha01
 - 👀 I’m interested in exploring.
-- 🌱 I’m currently learning power BI and SQL.
+- 🌱 I’m currently learning Power BI and SQL.
 
 
 <!---
