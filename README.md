@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Namitajha01
 - Aspiring Data Analyst.
-- 👀 I’m interested in exploring and Learning.
-- 🌱 I’m currently learning Power BI and SQL.
+- 👀 I’m interested in Data Analytics and Business Analytics.
+- My skills are Power Bi, SQL, Google Looker, Ms Excel.
+- Reach me @ namitajha776@gmail.com
+  
 
 
 <!---
