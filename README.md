@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Namitajha01
-- 👀 I’m interested in exploring.
+- Aspiring Data Analyst.
+- 👀 I’m interested in exploring and Learning.
 - 🌱 I’m currently learning Power BI and SQL.
 
 
